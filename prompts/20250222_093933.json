@@ -1,0 +1,14 @@
+{
+  "input_info": "Gemini2.0",
+  "timestamp": "2025-02-22T09:39:33.434682",
+  "prompt": "こんにちはを韓国語で何といいますか？",
+  "result": "アニョハセヨ",
+  "history": [
+    {
+      "timestamp": "2025-02-22T09:40:20.052930",
+      "prompt": "こんにちはを英語で何といいますか？",
+      "result": "Hello!!",
+      "input_info": "Gemini2.0"
+    }
+  ]
+}

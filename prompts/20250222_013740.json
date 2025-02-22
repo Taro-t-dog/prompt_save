@@ -1,0 +1,14 @@
+{
+  "prompt": "こんにちはを韓国語で何と言いますか？",
+  "result": "こんにちはを韓国語で言うと「안녕하세요」(annyeonghaseyo)です！informal形式では「안녕」(annyeong)という言い方もあります。",
+  "input_info": "",
+  "timestamp": "2025-02-22T01:37:40.131515",
+  "history": [
+    {
+      "timestamp": "2025-02-22T01:38:43.376394",
+      "prompt": "こんにちはを英語で何と言いますか？",
+      "result": "😊\n\n\"こんにちは\" in English is \"Hello\" or \"Good day\". However, it's worth noting that the Japanese greeting \"こんにちは\" is more formal and polite, so a more suitable translation might be \"Good afternoon\" or \"Good morning\" depending on the time of day. \n\nIf you want to be more literal, you could say \"Konnichiwa\" itself, as it's becoming more widely recognized and used in international communication! 👋",
+      "input_info": ""
+    }
+  ]
+}

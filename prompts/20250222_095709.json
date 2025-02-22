@@ -1,0 +1,17 @@
+{
+  "service_name": "G2.0Flash",
+  "input_info": "カジュアルでお願いします",
+  "timestamp": "2025-02-22T09:57:09.595450",
+  "prompt": "こんにちはを韓国語で何といいますか？",
+  "result": "アニョハセヨ",
+  "history": [
+    {
+      "timestamp": "2025-02-22T09:58:13.181731",
+      "prompt": "こんにちはを英語で何といいますか？",
+      "result": "こんにちは！😊\n\nこんにちはを英語で表すとすると、\"Hello\"、\"Hi\"、\"Good day\"、\"Good afternoon\" などがありますが、時間帯によって異なります。\n\n* 朝：\"Good morning\"\n* 昼：\"Good day\" または \"Good afternoon\"\n* 晚：\"Good evening\"\n\nただし、各-country-specific culture を考慮すると、変わる場合もありますよ！ 😊",
+      "input_info": "カジュアルでお願いします",
+      "old_service_name": " llama3-70b-8192",
+      "new_service_name": "G2.0Flash"
+    }
+  ]
+}

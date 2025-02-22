@@ -1,0 +1,17 @@
+{
+  "prompt": "こんにちはを韓国語で何と言いますか？",
+  "result": "こんにちはを英語で言うと、\"Konnichiwa\"と同様に「Hello」、「Hi」、「Good day」、「Good afternoon」など多くの表現があります。 time of day に応じて以下のように言えます。\n\n* Morning: 「Good morning」\n* Afternoon: 「Good afternoon」\n* Evening: 「Good evening」\n\nしかし、昼間に「こんにちは」という挨拶をする場合、「Hello」や「Hi」でも問題ありません。ただし、より正式な場面では「Good day」や「Good afternoon」が適切です。",
+  "input_info": "",
+  "timestamp": "2025-02-22T01:26:06.880798",
+  "history": [
+    {
+      "timestamp": "2025-02-22T01:27:05.489055",
+      "old_prompt": "こんにちはを英語でなんて言いますか？",
+      "old_result": "こんにちはを英語で言うと、\"Konnichiwa\"と同様に「Hello」、「Hi」、「Good day」、「Good afternoon」など多くの表現があります。 time of day に応じて以下のように言えます。\n\n* Morning: 「Good morning」\n* Afternoon: 「Good afternoon」\n* Evening: 「Good evening」\n\nしかし、昼間に「こんにちは」という挨拶をする場合、「Hello」や「Hi」でも問題ありません。ただし、より正式な場面では「Good day」や「Good afternoon」が適切です。",
+      "old_input_info": "",
+      "new_prompt": "こんにちはを韓国語で何と言いますか？",
+      "new_result": "こんにちはを韓国語で言えば「안녕하세요」(annyeonghaseyo)です！😊",
+      "new_input_info": ""
+    }
+  ]
+}

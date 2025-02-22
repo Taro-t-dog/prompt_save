@@ -1,0 +1,14 @@
+{
+  "prompt": "こんにちはを韓国語で何と言いますか？",
+  "result": "こんにちはを韓国語で言いたい場合、「안녕하세요（annyeonghaseyo）」と言います！",
+  "input_info": "",
+  "timestamp": "2025-02-22T01:35:05.140219",
+  "history": [
+    {
+      "timestamp": "2025-02-22T01:35:35.761655",
+      "prompt": "こんにちはを英語で何と言いますか？",
+      "result": "こんにちは is \"Hello\" or \"Good day\" in English, depending on the time of day. However, a more literal translation would be \"Good afternoon\".\n\nIf you want to be more specific, here are some other ways to greet someone in English at different times of day:\n\n* morning: \"Good morning\" (おはようございます)\n* afternoon: \"Good afternoon\" (こんにちは)\n* evening: \"Good evening\" (こんばんは)\n* night: \"Good night\" (おやすみなさい)\n\nBut in casual settings, a simple \"Hi\" or \"Hello\" (こんにちは) is often used regardless of the time of day! 😊",
+      "input_info": ""
+    }
+  ]
+}

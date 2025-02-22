@@ -1,0 +1,20 @@
+{
+  "input_info": "出力形式は一対一対応でお願いします。",
+  "timestamp": "2025-02-22T09:19:24.475984",
+  "prompt": "こんにちはを英語で何といいますか？",
+  "result": "こんにちは in English is \"Hello\" or \"Good day\". However, depending on the time of day, you can also use:\n\n* Ohayou gozaimasu (おはようございます) -> Good morning\n* Konnichiwa (こんにちは) -> Good day or Good afternoon\n* Konbanwa (こんばんは) -> Good evening\n\nSo, if you want to say \"こんにちは\" specifically in English, you can say \"Good day\" or \"Good afternoon\", as it's usually used during daytime.",
+  "history": [
+    {
+      "timestamp": "2025-02-22T09:20:01.146224",
+      "prompt": "こんにちはを中国語で何と言いますか？",
+      "result": "こんにちはを中国語で言うと、「こんにちは」は「nǐ hǎo」(니하오)と言います！",
+      "input_info": ""
+    },
+    {
+      "timestamp": "2025-02-22T09:28:07.144254",
+      "prompt": "こんにちはを韓国語で何といいますか？",
+      "result": "こんにちはを韓国語では「안녕하세요」(annyeonghaseyo)と言います。ただし、カジュアルな場面では「안녕」(annyeong)でもOKです！",
+      "input_info": ""
+    }
+  ]
+}

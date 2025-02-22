@@ -1,0 +1,25 @@
+{
+  "service_name": "Gemini2.0Flash",
+  "input_info": "優しく簡潔に。",
+  "timestamp": "2025-02-22T10:03:39.165889",
+  "prompt": "안녕하세요を日本語で何と言いますか？",
+  "result": "「こんにちは」",
+  "history": [
+    {
+      "timestamp": "2025-02-22T10:04:27.612360",
+      "prompt": "こんにちはを英語でなんて言いますか",
+      "result": "😊\n\nこんにちは can be translated to English as \"Hello\" or \"Good day\". However, depending on the time of day, you can also use:\n\n* おはようございます (Ohayou gozaimasu) -> Good morning\n* こんにちは (Konnichiwa) -> Good afternoon\n*こんばんは (Konbanwa) -> Good evening\n\nSo, if someone asks you how to say \"こんにちは\" in English, you can simply say \"Hello\" or \"Good day\", and they'll understand! 👍",
+      "input_info": "優しく。",
+      "old_service_name": "llama3-70b-8192",
+      "new_service_name": "変更なし"
+    },
+    {
+      "timestamp": "2025-02-22T10:05:23.046864",
+      "prompt": "こんにちはを韓国語で何と言いますか？",
+      "result": "こんにちは！ 韓国語では「안녕하세요」(annyeonghaseyo)と言います！",
+      "input_info": "優しく簡潔に。",
+      "old_service_name": "変更なし",
+      "new_service_name": "Gemini2.0Flash"
+    }
+  ]
+}

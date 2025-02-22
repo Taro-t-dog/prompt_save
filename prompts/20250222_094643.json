@@ -1,0 +1,25 @@
+{
+  "service_name": "llama3-70b-8192",
+  "input_info": "一対一対応でお願いします",
+  "timestamp": "2025-02-22T09:46:43.476651",
+  "prompt": "こんにちはをフランス語で何といいますか？",
+  "result": "こんにちは！フランス語で「こんにちは」をいうと「Bonjour」（ボンジュール）です！ただし、昼間や夜間に応じて異なる挨拶があります。昼間は「Bonjour」、夕方以降は「Bonsoir」（ボンスワール）と言います。早朝に会釈する場合は「Bon matin」（ボン・マタン）と言います。",
+  "history": [
+    {
+      "timestamp": "2025-02-22T09:48:07.143598",
+      "prompt": "こんにちはを英語で何といいますか？",
+      "result": "Hello!",
+      "input_info": "",
+      "old_service_name": "Gemini2.0fflash",
+      "new_service_name": "Gemini2.0fflash"
+    },
+    {
+      "timestamp": "2025-02-22T09:51:32.526788",
+      "prompt": "こんにちはを韓国語で何といいますか？",
+      "result": "アニョハセヨ",
+      "input_info": "",
+      "old_service_name": "Gemini2.0fflash",
+      "new_service_name": "llama3-70b-8192"
+    }
+  ]
+}

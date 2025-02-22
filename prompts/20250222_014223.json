@@ -1,0 +1,26 @@
+{
+  "prompt": "こんにちはを江戸時代なんと言っていました？",
+  "result": "こんにちはは、江戸時代には言わなかった言葉ですね。 江戸時代の日本では、現在のような「こんにちは」や「こんばんは」などの挨拶はなかったようです。\n\n代わりに、当時の人々は、時間帯によって異なる挨拶を使用していました。例えば、朝は「おはようございます」という挨拶を使用し、昼は「お日頂き」とか「お昼です」と言った挨拶を使用し、晩は「こんばん」とか「お晩です」と言った挨拶を使用していました。\n\n「こんにちは」みたいな挨拶は、明治時代以降に欧米の影響を受けて、新しい生活様式や文化との融合によって生み出された言葉です。",
+  "input_info": "",
+  "timestamp": "2025-02-22T01:42:23.058042",
+  "history": [
+    {
+      "timestamp": "2025-02-22T01:43:03.049132",
+      "prompt": " こんにちはを英語で何と言いますか？",
+      "result": "こんにちは is \"Hello\" or \"Good day\" in English. However, there are some nuances to consider:\n\n* If you want to greet someone in the morning, you can say \"Good morning\" (Ohayou gozaimasu in Japanese).\n* If you want to greet someone in the afternoon, you can say \"Good afternoon\" (Konbanwa in Japanese).\n* If you want to greet someone in the evening, you can say \"Good evening\" (Konbanwa or Oyasumi nasai in Japanese).\n\nBut if you want a general greeting that can be used at any time of day, \"Hello\" or \"Hi\" is a safe choice. 😊",
+      "input_info": ""
+    },
+    {
+      "timestamp": "2025-02-22T01:48:11.587453",
+      "prompt": "こんにちはを韓国語で何と言いますか？",
+      "result": "こんにちは을 韓国語で 言いますと、안녕하세요（アンニョンハセヨ）と言います！",
+      "input_info": ""
+    },
+    {
+      "timestamp": "2025-02-22T01:48:45.994948",
+      "prompt": "こんにちはをフランス語で何と言いますか？",
+      "result": "こんにちはをフランス語で言いたい場合は「Bonjour」または「Bonsoir」と言います。\n\n* 「Bonjour」は午前中や午後の挨拶に使用されます。\n* 「Bonsoir」は夕方以降の挨拶に使用されます。\n\nただし、カジュアルな状況では「Salut」も使用される場合があります。",
+      "input_info": ""
+    }
+  ]
+}
